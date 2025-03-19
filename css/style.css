@@ -563,7 +563,6 @@ main {
 
 .client-item {
     background: #fff;
-    padding: 15px;
     border: 1px solid #ddd; /* Subtle border as per image */
     border-radius: 5px;
     text-align: center;
